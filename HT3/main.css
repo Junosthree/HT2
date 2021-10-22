@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Noto+Sans:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Raleway:ital,wght@0,200;1,300&display=swap');
+
+
+* {
+    color: #3b3b3b;
+    font-family: 'Bitter', serif;
+}
+
+#iam {
+    color: #444444;
+    width: 1080px;
+}
+
+.red {
+   color: red;
+}
+
+.green {
+    color:green;
+}
+
+.blue {
+    color: blue;
+}
+
+ul li {
+    color: #2b2d59;
+    font-family: 'Im Fell English SC', sans-serif;
+    font-size: 19px;
+    font-weight: 300;
+}
+
+
+span {
+    text-decoration: line-through;
+    color: #000000;
+    width: 1080px;
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Noto+Sans:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Noto+Sans:ital,wght@0,400;1,700&display=swap');
+* {
+    color: #5865f2;
+}
+
+p {
+    color: darkseagreen;
+}
+
+p {
+    color: red;
+}
+
+.black {
+    color: black;
+}
+
+.green {
+    color: green;
+}
+
+ul li {
+    color: black;
+}
+
+* {
+    color: #000000;
+    font-family: 'Im Fell English SC', sans-serif;
+    font-size: 28px; /* 130%, wv, vh, em, rem */
+    font-weight: 500;
+    text-decoration: line-through;
+}
+
+p span {
+    font-size: 1.5em;
+}
+
+h1 {
+    color: red;
+    font-family: 'Noto Sans', sans-serif;
+}
