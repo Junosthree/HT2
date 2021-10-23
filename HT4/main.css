@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Quicksand:wght@300;500;700&family=Raleway:ital,wght@0,200;1,300&display=swap');
+
+body {
+    background-color: #ed5c5e;
+}
+
+* {
+    font-family: 'Quicksand', sans-serif;
+    color: #fafafa;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    margin: 40px 10px 10px 1px;
+}
+
+.divider {
+    display: block;
+    margin: 0px 0px 0px 660px;
+    width: 250px;
+    height: 2px;
+    background-color: #fcc94e;
+    position: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 15px;
+    margin: 10px 400px 100px 400px;
+    position: relative;
+
+}
+
+div {
+    box-sizing: content-box;
+    display: inline-block;
+    width: 220px;
+    height: 400px;
+    margin: 10px 80px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: top;
+}
+
+.background {
+    background-image: url(https://cdn-icons.flaticon.com/png/512/5850/premium/5850945.png?token=exp=1635012722~hmac=3fa3c103fcd5102e9bf8d2189cb20a37);
+    background-position: top;
+}
+
+.background2 {
+    background-image: url(https://cdn-icons.flaticon.com/png/512/5850/premium/5850976.png?token=exp=1635012775~hmac=b3571e54fee152f7596114e2e0f0367f);
+    background-position: top;
+}
+
+.background3 {
+    background-image: url(https://cdn-icons.flaticon.com/png/512/5851/premium/5851866.png?token=exp=1635012736~hmac=5cbba4dfa1c390c7d2d62c5588df87ef);
+    background-position: top;
+}
+
+.background4 {
+    background-image: url(https://cdn-icons.flaticon.com/png/512/5850/premium/5850930.png?token=exp=1635012731~hmac=7246b191017f437db50e1bc55f96670c);
+    background-position: top;
+}
+
+h6 {
+    font-size: 30px;
+    margin: 120px 10px 10px 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    height: 100px ;
+    margin: 1px 10px 10px 10px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
