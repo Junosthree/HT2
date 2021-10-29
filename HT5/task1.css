@@ -1,0 +1,28 @@
+
+.red {
+    background-color: #ea3323;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.yellow {
+    background-color: #fffe54;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.cyan {
+    background-color: #badfe5;
+    opacity: 70%;
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    left: 0;
+    top: 450px;
+}

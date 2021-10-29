@@ -1,0 +1,36 @@
+.red {
+    height: 300px;
+    width: 300px;
+    background-color: #badfe5;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.green {
+    height: 300px;
+    width: 300px;
+    background-color: #6f9c9f;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+
+}
+
+.blue {
+    height: 300px;
+    width: 300px;
+    background-color: #5f3895;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+.black {
+    height: 300px;
+    width: 300px;
+    background-color: #a5cc4f;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
