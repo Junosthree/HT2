@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Roboto&display=swap');
+
+* {
+    background: #f5f5f5;
+    text-align: center;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 1.4em;
+}
+
+
+h2 {
+    color: #feeeb1;
+    text-shadow:
+            0 2px 0 #908220,
+            0 3px 2px #6f84ca,
+
+            0 3px 0 #3CD331FF,
+            0 5px 0 #006880FF,
+            0 6px 2px #00164D7F,
+
+            0 6px 0 #f7da00,
+            0 8px 0 #d0d2f0,
+            0 9px 2px #004b9d,
+
+            0 9px 0 #005862FF,
+            0 11px 0 #008002FF,
+            0 12px 2px hsla(212, 100%, 26%, 0.5),
+
+            0 12px 0  #d2bb11,
+            0 14px 0  #feeeb1,
+            0 15px 2px  #f3db78,
+
+            0 15px 0  #94aaf0,
+            0 17px 0 #005bc1,
+            0 17px 2px #908126;
+    }
+

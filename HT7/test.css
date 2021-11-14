@@ -7,6 +7,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
+
 .header {
     position: relative;
     width: 1230px;
@@ -20,6 +21,7 @@ body {
     border: 2px solid #60C1BD;
     border-radius: 100px;
 }
+
 .section1 {
     position: absolute;
     width: 100%;
@@ -27,12 +29,14 @@ body {
     top: 0;
     background: #284854;
 }
+
 .container {
     display: block;
     max-width: 1200px;
     height: 799px;
     margin: 0 auto;
 }
+
 .frame1 {
     position: relative;
     width: 1200px;
@@ -43,6 +47,7 @@ body {
 
     /*background: #4e6e7a;*/
 }
+
 .lil {
     display: inline-block;
     position: relative;
@@ -55,21 +60,25 @@ body {
     border-radius: 10px;
     background: #F4F6F0;
 }
+
 .frame3 {
     float: right;
 }
+
 .section2 {
     position: absolute;
     width: 100%;
     height: 1318px;
     top: 1088px;
 }
+
 .container2 {
     display: block;
     max-width: 1200px;
     height: 1388px;
     margin: 0 auto;
 }
+
 .lilcontainer1 {
     display: block;
     max-width: 1200px;
@@ -77,6 +86,7 @@ body {
     margin: 0 auto;
     text-align: center;
 }
+
 .lilcontainer2 {
     display: block;
     width: 1115px;
@@ -85,6 +95,7 @@ body {
 
     /*background: #00FF00;*/
 }
+
 .frame8 {
     position: static;
 
@@ -94,18 +105,21 @@ body {
 
 
 }
+
 .frame9 {
     position: static;
     width: 1050px;
     height: 315px;
     margin: 45px auto;
 }
+
 .frame10 {
     position: static;
     width: 1050px;
     height: 315px;
     margin: 45px auto;
 }
+
 .section3 {
     position: absolute;
     width: 100%;
@@ -114,12 +128,14 @@ body {
 
     background: #F4F6F0;
 }
+
 .container3 {
     display: block;
     max-width: 1200px;
     height: 600px;
     margin: 0 auto;
 }
+
 .frame11 {
     position: relative;
     width: 1200px;
@@ -129,6 +145,7 @@ body {
     top: 100px;
 
 }
+
 .section4 {
     position: absolute;
     width: 100%;
@@ -137,12 +154,14 @@ body {
 
     background: #8BC441;
 }
+
 .container4 {
     display: block;
     max-width: 1200px;
     height: 600px;
     margin: 0 auto;
 }
+
 .frame12 {
     position: relative;
     width: 1075px;
@@ -152,6 +171,7 @@ body {
     top: 170px;
 
 }
+
 .section5 {
     position: absolute;
     width: 100%;
@@ -160,12 +180,14 @@ body {
 
     background: #ffffff;
 }
+
 .container5 {
     display: block;
     max-width: 1200px;
     height: 500px;
     margin: 0 auto;
 }
+
 .frame13 {
     position: relative;
     width: 1200px;
@@ -176,12 +198,14 @@ body {
 
     /*background: #604e7a;*/
 }
+
 h1 {
     position: absolute;
     font-weight: 400;
     left: 33px;
     color: white;
 }
+
 a {
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 400;
@@ -193,6 +217,7 @@ a {
     top: 33px;
     margin: 40px;
 }
+
 .hblock {
     position: absolute;
     top: 0;
@@ -204,6 +229,7 @@ a {
     font-size: 85px;
     line-height: 102px;
 }
+
 .lilblock {
     position: absolute;
     width: 542px;
@@ -214,6 +240,7 @@ a {
     margin: 0;
     bottom: 0;
 }
+
 .png1 {
     position: absolute;
     right: 0;
@@ -222,6 +249,7 @@ a {
     top: 25px;
     /*vertical-align: middle; ??????????????????*/
 }
+
 .png2 {
     position: relative;
     vertical-align: middle;
@@ -230,6 +258,7 @@ a {
     height: 100px;
     width: 110px;
 }
+
 .png3 {
     position: relative;
     vertical-align: middle;
@@ -238,6 +267,7 @@ a {
     height: 100px;
     width: 110px;
 }
+
 .small1 {
     position: absolute;
     font-family: 'Roboto', sans-serif;
@@ -251,6 +281,7 @@ a {
     top: 0;
     vertical-align: middle;
 }
+
 .small {
     position: absolute;
     font-family: 'Roboto', sans-serif;
@@ -264,6 +295,7 @@ a {
     top: 50px;
     vertical-align: middle;
 }
+
 .lil1 {
     font-family: 'Nunito Sans', sans-serif;
     font-size: 22px;
@@ -277,6 +309,7 @@ a {
     margin: auto;
     color: #60C1BD;
 }
+
 .lil2 {
     height: 64px;
     width: 1200px;
@@ -290,9 +323,11 @@ a {
     color: #284854;
     text-align: center;
 }
+
 .pngfr2 {
     float: right;
 }
+
 .text1 {
     position: relative;
     top: 40px;
@@ -301,6 +336,7 @@ a {
     width: 580px;
     height: 220px;
 }
+
 .text2 {
     position: relative;
     top: 40px;
@@ -316,6 +352,7 @@ a {
     text-align: left;
     color: #284854;
 }
+
 .ustal {
     margin: auto;
     color: #798B56;
@@ -325,7 +362,8 @@ a {
     line-height: 27px;
     text-align: left;
 }
-.slozhno{
+
+.slozhno {
     margin: auto;
     color: #8BC441;
     font-family: 'Roboto', sans-serif;
@@ -364,10 +402,12 @@ a {
 
     color: #60C1BD;
 }
-p{
+
+p {
     color: #284854;
 
 }
+
 .slozhno2 {
     height: auto;
     margin: 10px auto;
@@ -380,6 +420,7 @@ p{
     line-height: 64px;
     text-align: left;
 }
+
 .dogtext1 {
     position: static;
     height: 266px;
@@ -464,7 +505,7 @@ p{
     /*background: red;*/
 }
 
-.kekw   {
+.kekw {
     height: 18px;
     width: 67px;
     left: 43px;
@@ -514,6 +555,7 @@ p{
     top: 50px;
     /*background: rgba(146, 207, 227, 0.21);*/
 }
+
 .frame17 {
     color: #60C1BD;
     position: absolute;
